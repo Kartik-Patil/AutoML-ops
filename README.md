@@ -8,7 +8,7 @@ A scalable AutoML-MLOps platform prototype that automates machine learning workf
 - **Team Lead:** Kartik Patil  (https://www.linkedin.com/in/kartikpatil08/)
 - **Members:**
   - Prajwal Kulkarni  (https://www.linkedin.com/in/prajwalkulkarni07/)
-  - Spurthi Pattansshetti (https://www.linkedin.com/in/spurthi-pattanashetti/)  
+  - Spurthi Pattanashetti (https://www.linkedin.com/in/spurthi-pattanashetti/)  
   - Hrishikesh Tubachi  (https://www.linkedin.com/in/hrishikesh6887/)
 
 ## Project Overview
